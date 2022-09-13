@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-Bikash
+- 👋 Hi, I’m Bikash Saha
 - 👀 I’m interested in SDE, ML Engineer, Data Scientist.
 - 🌱 I’m currently learning ML, Cybersecurity.
 - 📫 How to reach me at bik9932@gmail.com/bikashs@iitbhilai.ac.in
